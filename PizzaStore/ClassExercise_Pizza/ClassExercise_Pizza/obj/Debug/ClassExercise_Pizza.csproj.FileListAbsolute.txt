@@ -1,6 +1,0 @@
-C:\Users\santiagoyepescarrera\source\repos\ClassExercise_Pizza\ClassExercise_Pizza\bin\Debug\ClassExercise_Pizza.exe.config
-C:\Users\santiagoyepescarrera\source\repos\ClassExercise_Pizza\ClassExercise_Pizza\bin\Debug\ClassExercise_Pizza.exe
-C:\Users\santiagoyepescarrera\source\repos\ClassExercise_Pizza\ClassExercise_Pizza\bin\Debug\ClassExercise_Pizza.pdb
-C:\Users\santiagoyepescarrera\source\repos\ClassExercise_Pizza\ClassExercise_Pizza\obj\Debug\ClassExercise_Pizza.csprojAssemblyReference.cache
-C:\Users\santiagoyepescarrera\source\repos\ClassExercise_Pizza\ClassExercise_Pizza\obj\Debug\ClassExercise_Pizza.exe
-C:\Users\santiagoyepescarrera\source\repos\ClassExercise_Pizza\ClassExercise_Pizza\obj\Debug\ClassExercise_Pizza.pdb
